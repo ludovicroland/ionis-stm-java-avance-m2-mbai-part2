@@ -1,0 +1,5 @@
+rootProject.name = 'ionis-java-avance-part2'
+
+include 'exercice1'
+include 'exercice2'
+include 'exercice3'
