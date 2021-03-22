@@ -32,7 +32,7 @@ public class ChinookConnection
     try
     {
       //WARNING : Change with "jdbc:sqlite:src/main/resources/chinook.db" for the tests
-      connection =  DriverManager.getConnection("jdbc:sqlite:src/main/resources/chinook.db");
+      connection =  DriverManager.getConnection("jdbc:sqlite:exercice2/src/main/resources/chinook.db");
     }
     catch (SQLException throwables)
     {
